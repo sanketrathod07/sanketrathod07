@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 3em; font-family: 'Poppins', sans-serif;">
   Hi <a href="https://github.com/sanketrathod07" target="blank">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  </a>, I'm <a href="https://github.com/sanketrathod07">Sanket</a> Rathod
+  </a>, I'm <a href="https://github.com/sanketrathod07">Sanket</a> Rathod.
 </h1>
 
 <h2 align="center" style="font-size: 2.5em; font-family: 'Poppins', sans-serif;">
